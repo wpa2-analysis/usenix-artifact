@@ -44,15 +44,15 @@ To inspect proofs, you can use the so-called *interactive mode* of the Tamarin p
 
 3. Load a proof file by first clicking **Browse...** and choosing one of the proofs from the folder *~/Code/wpa2_model/automatic_proofs*. Once you've chosen a file, click **Load new theory**:
 
-![Load a Proof File](images/load_theory.png)
+![Load a Proof File](images/load_theory.png | width=600)
 
 4. The proof file should now show up in the list of lemmas (see below). By clicking on the theory name for a given file, you can open the file. Note that this can take a while for larger proofs:
 
-![Open a Proof File](images/open_theory.png)
+![Open a Proof File](images/open_theory.png | width=600)
 
 5. Once a proof file has been loaded successfully, the list of lemmas is shown on the left of the page. Scroll to the corresponding lemma to see its proof. If a proof is colored green and ends with *qed*, it means that Tamarin could successfully check the correctness of the proof:
 
-![Inspect a Proof](images/proof_inspection.png)
+![Inspect a Proof](images/proof_inspection.png | width=600)
 
 ### Contact
 
