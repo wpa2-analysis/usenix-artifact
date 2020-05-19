@@ -42,7 +42,7 @@ To inspect proofs, you can use the so-called *interactive mode* of the Tamarin p
 
 2. Start the Firefox browser and open the URL http://localhost:3001 (note that the bookmark **Tamarin Interactive** in Firefox's bookmarks tab also links to that URL).
 
-3. Load a proof file by first clicking **Browse...** and choosing one of the proofs from the folder *~/Code/wpa2_model/automatic_proofs*. Once you've chosen a file, click **Load new theory**:
+3. Load a proof file by clicking **Browse...** and choosing one of the proofs from the folder *~/Code/wpa2_model/automatic_proofs*. Once you've chosen a file, click **Load new theory**:
 
 <p align="center">
 <img src="images/load_theory.png" alt="Screenshot for loading a proof file" width="600"/>
